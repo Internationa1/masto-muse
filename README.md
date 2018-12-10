@@ -16,6 +16,8 @@ Move both *auth.py* and *muse.py* to your `.ncmpcpp` folder. Run creds.py, enter
 
 In *muse.py*, edit the variables port, host, and instance, to match your mpd port, host, and mastodon instance, respectively.
 
+On line 18 of *muse.py*, change the file location to the direct path of your .ncmpcpp config folder.
+
 Finally, edit `.ncmpcpp/config`, and add the following line
 
 ```
