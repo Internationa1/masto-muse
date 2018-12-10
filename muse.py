@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 port = 6600
 host = 'localhost'
 instance = 'https://cybre.space'
